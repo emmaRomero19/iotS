@@ -1,7 +1,7 @@
 import web
 
 urls = (
-    '/(.*)', 'controllers.controller.Control'
+    '/(.*)', 'hello'
 )
 app = web.application(urls, globals())
 
