@@ -1,7 +1,2 @@
-cheroot==8.3.1
-jaraco.functools==2.0
-more-itertools==7.2.0
 pymongo==3.10.1
-six==1.15.0
 web.py==0.51
-winkerberos==0.7.0
