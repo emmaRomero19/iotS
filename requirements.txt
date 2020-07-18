@@ -1,2 +1,2 @@
 pymongo==3.10.1
-web.py==0.51
+web.py==0.40
